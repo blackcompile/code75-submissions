@@ -1,4 +1,4 @@
-# NeetCode Solutions — @njmnusrat
+# NeetCode Solutions — @blackcompile
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
